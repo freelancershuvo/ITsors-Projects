@@ -1,0 +1,112 @@
+.header-section {
+    background: url(../images/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-section .nev-menu {
+    margin-top: 8px;
+    margin-left: -40px;
+}
+.header-section .nev-menu ul {
+    display: flex;
+    list-style: none;
+}
+.header-section .nev-menu ul li {
+    margin-right: 15px;
+}
+.header-section .nev-menu ul li a {
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+.header-section .nev-menu ul li a:hover {}
+
+.header-section .logo-section {}
+.header-section .logo-section h1 {
+    text-align: center;
+    color: white;
+}
+
+.header-section .search-box {float: right;background: white;height: 28px;border-radius: 12px;padding-right: 10px;padding-left: 10px;margin-top: 5px;}
+.header-section .search-box .search-text {
+    border: none;
+    border-radius: 10px;
+}
+.header-section .search-box .search-btn{}
+
+.header-section .header-title{
+    text-align: center;
+    margin-top: 270px;
+    color: white;
+}
+.header-section .header-title h1{}
+.header-section .header-section {
+    background: url(../images/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-section .nev-menu {
+    margin-top: 8px;
+    margin-left: -40px;
+}
+.header-section .nev-menu ul {
+    display: flex;
+    list-style: none;
+}
+.header-section .nev-menu ul li {
+    margin-right: 15px;
+}
+.header-section .nev-menu ul li a {
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+.header-section .nev-menu ul li a:hover {}
+
+.header-section .logo-section {}
+.header-section .logo-section h1 {
+    text-align: center;
+    color: white;
+}
+
+.header-section .search-box {float: right;background: white;height: 28px;border-radius: 12px;padding-right: 10px;padding-left: 10px;margin-top: 5px;}
+.header-section .search-box .search-text {
+    border: none;
+    border-radius: 10px;
+}
+.header-section .search-box .search-btn{}
+
+.header-section .header-title{
+    text-align: center;
+    margin-top: 270px;
+    color: white;
+}
+.header-section .header-title h1{
+    font-size: 55px;
+}
+.header-section .header-button .work-btn{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background: green;
+    border: none;
+    font-size: 22px;
+    height: 50px;
+    border-radius: 25px;
+    padding: 0px 15px;
+}
+.header-section .header-button .scroll-down{margin-top: 240px;padding-bottom: 10px;}
+.header-section .header-button .scroll-down scl-btn{}
+
+.header-button .work-btn{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.header-section .header-button .scroll-down{margin-top: 240px;padding-bottom: 10px;}
+.header-section .header-button .scroll-down scl-btn{}
+
