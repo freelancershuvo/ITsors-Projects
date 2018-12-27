@@ -109,4 +109,220 @@
 }
 .header-section .header-button .scroll-down{margin-top: 240px;padding-bottom: 10px;}
 .header-section .header-button .scroll-down scl-btn{}
+/*Header Section CSS End*/
+
+/*Work Section CSS Start*/
+.work-section{
+    text-align: center;
+    margin-top: 40px;
+}
+.work-section h1{
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.work-section p{
+    font-size: 16px;
+    margin-bottom: 75px;
+}
+.work-section .work-card{}
+.work-section .work-card .icon{}
+.work-section .work-card .icon img{}
+.work-section .work-card h1{
+    margin-top: 30px;
+}
+.work-section .work-card p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.work-section .work-card button{margin-bottom: 75px;}
+/*Work Section CSS End*/
+
+/*Latest Work Seciton CSS Start*/
+.latest-work-section{
+    background: #54D154;
+    padding-top: 45px;
+    text-align: center;
+}
+.latest-work-section h1{
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.latest-work-section p{
+    margin-bottom: 60px;
+    font-size: 16px;
+}
+.latest-work-section .work-menu{}
+.latest-work-section .work-menu ul{}
+.latest-work-section .work-menu ul li{}
+.latest-work-section .work-menu ul li a{}
+.latest-work-section .work-images-section{
+    margin-bottom: 55px;
+}
+.latest-work-section .work-images-section img{
+    height: 160px;
+    width: 160px;
+}
+.latest-work-section .work-btn{}
+.latest-work-section .work-btn button{
+    margin-bottom: 50px;
+}
+.latest-work-section .work-btn i{}
+/*Latest Work Section End*/
+
+/* Our Client Section Start*/
+.our-client{
+    margin-top: 50px;
+    text-align: center;
+}
+.our-client h1{
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.our-client p{
+    margin-bottom: 80px;
+}
+.our-client .client-logo{
+    margin-bottom: 55px;
+}
+.our-client .client-logo img{
+    color: #828181;
+    height: 40px;
+}
+.our-client .more-btn{}
+.our-client .more-btn button{
+    margin-bottom: 60px;
+}
+.our-client .more-btn i{}
+/*Our Client Section End*/
+
+/*Team Member Section Start*/
+.team-member{
+    text-align: center;
+    background: #54D154;
+}
+.team-member h1{
+    padding-top: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.team-member p{
+    margin-bottom: 45px;
+}
+.team-member .member-info{}
+.team-member .member-info .pro-img{
+    height: 120px;
+    width: 120px;
+    background: white;
+    border-radius: 50%;
+    /* z-index: 0; */
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+.team-member .member-info .pro-img img{
+    height: 120px;
+    /* width: 120px; */
+    border-radius: 50%;
+    /* padding: 13px; */
+    margin-top: 18px;
+    /* z-index: 1; */
+}
+.team-member .member-info strong{
+    font-size: 16px;
+}
+.team-member .member-info .team-member-social-profile{
+    margin-bottom: 60px;
+}
+.team-member .member-info .team-member-social-profile ul{
+    display: flex;
+}
+.team-member .member-info .team-member-social-profile ul li{}
+.team-member .member-info .team-member-social-profile ul li a{}
+.team-member .member-info .team-member-social-profile ul li a img{}
+/*Team Member Section End*/
+
+.work-btn{
+    background: #3EBA3E;
+    text-align: center;
+}
+.work-btn button{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+/*Footer Section Start*/
+.footer-section{}
+.footer-section .com-info{
+    text-align: center;
+}
+.footer-section .com-info h1{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.footer-section .com-info p{
+    color: white;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+.footer-section .com-info ul{
+    display: flex;
+}
+.footer-section .com-info ul li{}
+.footer-section .com-info ul li a{}
+.footer-section .com-info ul li a img{}/*Company Info Section End*/
+.footer-section .post-area{}
+.footer-section .post-area h1{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.footer-section .post-area .single-post{}
+.footer-section .post-area .single-post ul{
+    display: flex;
+}
+.footer-section .post-area .single-post ul li{}
+.footer-section .post-area .single-post ul li a{}
+.footer-section .post-area .single-post ul li a img{
+    height: 55px;
+    width: 55px;
+    border-radius: 5px;
+}
+.footer-section .post-area .single-post ul li a h3{
+    font-size: 16px;
+}
+.footer-section .post-area .single-post ul li a button{}/*Post Area End*/
+.footer-section{
+    /* text-align: center; */
+    background: #333333;
+    padding-top: 30px;
+}
+.footer-section .contact-form  {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
